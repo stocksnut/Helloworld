@@ -25,6 +25,7 @@ public class Helloworld {
 		System.out.println("Welcome to New York.");
 		System.out.println("That's one small step for a man, one giant leap for mankind.");
 		System.out.println("I think; therefore, I am confused.");
+		here's a bunch of invalid code
     }
 
 }
