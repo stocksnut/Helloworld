@@ -24,7 +24,7 @@ public class Helloworld {
 		System.out.println("Here's looking at you, kid.");
 		System.out.println("Welcome to New York.");
 		System.out.println("That's one small step for a man, one giant leap for mankind.");
-		System.out.println("I think; therefore, I am confused.");
+		System.out.println("Four score and seven years ago...");
     }
 
 }
